@@ -9,8 +9,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./test_images_output/solidWhiteCurve.jpg "Solid White Curve"
+[image1]: ./examples/grayscale.jpg?raw=true "Grayscale"
+[image2]: ./test_images_output/solidWhiteCurve.jpg?raw=true "Solid_White_Curve"
 ---
 
 ### Reflection
