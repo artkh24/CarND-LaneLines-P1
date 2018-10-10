@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale",
+[image1]: ./examples/grayscale.jpg "Grayscale"
 [image2]: ./test_images_output/solidWhiteCurve.jpg "Solid_White_Curve"
 ---
 
@@ -28,9 +28,9 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 ![alt text][image1]
 
-![alt text][image2]
-### 2. Identify potential shortcomings with your current pipeline
 
+### 2. Identify potential shortcomings with your current pipeline
+![alt text][image2]
  This approach will not work when road is curved and also when snow  also if road is not smooth the edge detector detects a lot of lines that are not lane lines
 
 
