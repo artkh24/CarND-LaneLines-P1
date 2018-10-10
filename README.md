@@ -10,7 +10,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-
+[image2]: ./test_images_output/solidWhiteCurve.jpg "Solid White Curve" 
 ---
 
 ### Reflection
@@ -23,11 +23,11 @@ lines using Hough transform.
 
 In order to draw a single line for the left and right lanes, I modified the draw_lines() function and for every line 
 found slope and intercept and I divided slopess into two parts positive slopes for left line and negative slopes for right line then I found from these mean of slope and intercept for left and right lines
-
+![alt text][image1]
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
+![alt text][image2]
 
 
-[image2]: ./test_images_output/solidWhiteCurve.jpg "Solid White Curve" 
 
 ### 2. Identify potential shortcomings with your current pipeline
 
