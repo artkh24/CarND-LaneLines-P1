@@ -26,7 +26,7 @@ found slope and intercept and I divided slopess into two parts positive slopes f
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image1] ./test_images_output/test_images_output "Solid White Curve"
+![alt text][image1] ./test_images_output/solidWhiteCurve.jpg "Solid White Curve"
 
 
 ### 2. Identify potential shortcomings with your current pipeline
