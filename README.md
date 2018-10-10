@@ -10,7 +10,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./test_images_output/solidWhiteCurve.jpg "Solid White Curve"
+
 ---
 
 ### Reflection
@@ -26,8 +26,8 @@ found slope and intercept and I divided slopess into two parts positive slopes f
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image1]: 
-![alt text][image2]: 
+
+[image2]: ./test_images_output/solidWhiteCurve.jpg "Solid White Curve" 
 
 ### 2. Identify potential shortcomings with your current pipeline
 
