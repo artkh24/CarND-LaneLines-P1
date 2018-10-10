@@ -7,11 +7,6 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./examples/grayscale.jpg "ddd"
----
 
 ### Reflection
 
@@ -21,10 +16,12 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale, th
 I used Gaussian blurring, then I detected Canny edges and defined the Region of interest, after that I found
 lines using Hough transform.
 
+![image1](./examples/grayscale.jpg "Grayscale")
+
 In order to draw a single line for the left and right lanes, I modified the draw_lines() function and for every line 
 found slope and intercept and I divided slopes into two parts positive slopes for left line and negative slopes for right line then I found from these mean of slope and intercept for left and right lines
-![alt text][image1]
-![alt text][image2]
+
+![image2](./test_images_output/solidWhiteCurve.jpg "Solid White Curve")
 
 
 
