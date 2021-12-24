@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I then to remove image noise
+My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I removed image noise
 I used Gaussian blurring, then I detected Canny edges and defined the Region of interest, after that I found
 lines using Hough transform.
 
